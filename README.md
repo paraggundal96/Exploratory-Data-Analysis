@@ -16,6 +16,7 @@ Welcome to my Exploratory Data Analysis (EDA) project! This repository contains 
   Exploring correlations between variables to find dependencies.
 
 🛠️ Tools & Libraries Used
+
 Python 🐍
 Pandas – Data manipulation 🐼
 Matplotlib & Seaborn – Data visualization 📅
